@@ -19,7 +19,7 @@
  
  ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
  
- 5.	Use inspect feature to measure the dimensions of sketch.
+ 5.	Use inspect feature to measure the dimensions of sketch
  
  ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
  
@@ -29,14 +29,16 @@
  
  ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
  
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
+ 
  
  
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![EX1 2 EDM_page-0001](https://user-images.githubusercontent.com/119475603/210196074-1e926f3a-2d9a-4291-9109-4e82e7fd9d95.jpg)
+
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
